@@ -1,0 +1,1 @@
+console.log("DJ SaMon bot server has been started");

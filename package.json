@@ -1,0 +1,25 @@
+{
+  "name": "dj-samon",
+  "version": "1.0.0",
+  "description": "Music bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "start:dev": "nodemon .",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarath81198/dj-samon.git"
+  },
+  "author": "sdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarath81198/dj-samon/issues"
+  },
+  "homepage": "https://github.com/Sarath81198/dj-samon#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "nodemon": "^3.0.1"
+  }
+}
